@@ -142,6 +142,10 @@ h1 {
 }
 
 
+.footer-section {
+    margin-top: 60px;
+}
+
 .footer {
     height: 180px;
     text-align: center;
